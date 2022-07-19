@@ -17,6 +17,7 @@ export const getPosts = async () => {
                 url
               }
             }
+            date
             createdAt
             slug
             title
